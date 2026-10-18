@@ -1,2 +1,16 @@
-# index.html
-It is a simple website used to understand how does Github actually works.
+#STARTING WITH WORKFLOW
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Github Page</title>
+</head>
+<body>
+
+    <h1>This is a Main Heading</h1>
+    <p>This is a paragraph of text on my web page.</p>
+  <p>India is a great country.</p>
+    
+</body>
+</html>
