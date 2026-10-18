@@ -1,5 +1,5 @@
 <b>STARTING WITH THE WORKFLOW</b>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,6 +13,10 @@
   I am currently learning to use Github.
   <br>
   I am also learning about The Github Flow to understand the algorithms in Github.
+  <br>
+  <p>I have created this index.html to learn more about website hosting and repositories.</p>
+  <br>
+  Learning about Github would also help me to build better projects in hackathons.
     
 </body>
 </html>
